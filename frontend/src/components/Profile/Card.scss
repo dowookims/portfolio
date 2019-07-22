@@ -1,0 +1,21 @@
+.activeCard {
+  background-color: white;
+  color: black;
+  transition: 0.8s ease-out;
+  transform: rotate3d(0, 0.5, 0, 360deg);
+}
+
+.lightBlue {
+  color: #566BE3;
+  border: 2px solid#566BE3;
+}
+
+.orange {
+  color: #F2A036;
+  border: 2px solid#F2A036;
+}
+
+.emelard {
+  color: #43CFCD;
+  border: 2px solid#43CFCD;
+}
